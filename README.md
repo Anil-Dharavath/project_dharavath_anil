@@ -16,5 +16,6 @@ This project trains a CNN model based on the LeNet architecture to detect whethe
 - "Happy" label (i.e.. 3) mapped to "Smiling", all others(i.e.. 0,1,2,4,5,6) mapped to "Not Smiling".
 
 ## Instructions
-- Use fer2013.csv to train the model.
+- Use fer2013.csv from the link provided.
+- ** The data/01.csv file has 21 rows and 2 columns: emotion and pixels.Skip the first row (header) when loading this file.**
 
